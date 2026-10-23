@@ -1,0 +1,11 @@
+ID_Producto,Nombre_Producto,Categoria,Cantidad_Stock,Precio_Unitario,Sucursal
+101,Laptop HP 15,Electrónica,25,650.00,San Salvador
+102,Mouse Inalámbrico,Accesorios,120,15.50,Santa Ana
+103,Teclado Mecánico,Accesorios,85,45.00,San Miguel
+104,Monitor 24 IPS,Electrónica,40,185.00,La Libertad
+105,Impresora Multifuncional,Oficina,18,210.00,Sonsonate
+106,Disco Duro 1TB,Almacenamiento,60,55.00,San Salvador
+107,Memoria USB 64GB,Almacenamiento,150,12.00,Santa Ana
+108,Silla Ergonomica,Mobiliario,30,125.00,San Miguel
+109,Escritorio Ejecutivo,Mobiliario,15,250.00,La Libertad
+110,Webcam HD,Accesorios,70,35.00,Sonsonate
