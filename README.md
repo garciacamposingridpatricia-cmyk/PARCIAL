@@ -2,7 +2,11 @@
 
 ## Integrantes
 - Ingrid Patricia García Rivera Martínez
-- [Nombre de tu compañero/a]
 
-## Descripción
-Sistema de gestión e inspección de inventario por sucursales desarrollado con Pandas, PyQt5 y Matplotlib.
+## Contenido del Repositorio
+- `ejercicio.py`: Código fuente con el análisis en Pandas y la GUI en PyQt5/Matplotlib.
+- `datos.csv`: Dataset con la información del inventario.
+- `Informe_Consultoria_Inventario_UGB.docx`: Informe técnico en Word con el resumen ejecutivo, hallazgos, conclusiones y recomendaciones.
+- `requirements.txt`: Dependencias del proyecto.
+- `.gitignore`: Archivos excluidos del control de versiones.
+-
